@@ -29,7 +29,7 @@ while True:
 		cv2.imshow("create dataset face",img)
 		cv2.waitKey(100)
 	print(i)
-	if i>=2000:
+	if i>=50:
 		cam.release()
 		cv2.destroyAllWindows()
 		break
