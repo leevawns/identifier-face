@@ -1,12 +1,17 @@
+Tutorial
+-----------------------------------------------------------------------------
+1.create folder: trainner,images
+2.run: create_dataset_face.py
+3.run: face_train.py
+4.run: main.py
+------------------------------------------------------------------------------
+LIBRARY
+-------------------------------------------------------------------------------
 numpy==1.15.2
 opencv-contrib-python==3.4.3.18
 opencv-python==3.4.3.18
 pickle-mixin==1.0.2
 Pillow==5.3.0
-Pypubsub==4.0.0
-six==1.11.0
-typing==3.6.6
-wxPython==4.0.3
 
 
 built-in library:
